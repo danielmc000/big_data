@@ -1,0 +1,403 @@
+
+[2025-07-01 21:21:54] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_21-21-55.json
+
+============================================================
+
+[2025-07-01 21:21:55] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 21:21:55] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 21:21:57] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 21:27:01] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_21-27-04.json
+
+============================================================
+
+[2025-07-01 21:27:04] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 21:27:05] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 21:27:06] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 21:32:07] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_21-32-08.json
+
+============================================================
+
+[2025-07-01 21:32:08] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 21:32:11] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 21:32:12] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 21:37:39] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_21-37-40.json
+
+============================================================
+
+[2025-07-01 21:37:41] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 21:37:43] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 21:37:44] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 21:42:49] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_21-42-50.json
+
+============================================================
+
+[2025-07-01 21:42:50] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 21:42:52] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 21:42:54] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 21:47:55] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_21-47-56.json
+
+============================================================
+
+[2025-07-01 21:47:56] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 21:47:58] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 21:48:00] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 21:53:01] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_21-53-03.json
+
+============================================================
+
+[2025-07-01 21:53:03] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 21:53:05] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 21:53:06] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 21:58:08] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_21-58-09.json
+
+============================================================
+
+[2025-07-01 21:58:09] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 21:58:11] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 21:58:13] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 22:03:14] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_22-03-16.json
+
+============================================================
+
+[2025-07-01 22:03:16] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 22:03:18] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 22:03:19] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 22:08:21] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_22-08-22.json
+
+============================================================
+
+[2025-07-01 22:08:22] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 22:08:24] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 22:08:26] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 22:13:27] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_22-13-28.json
+
+============================================================
+
+[2025-07-01 22:13:28] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 22:13:30] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 22:13:31] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 22:18:33] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_22-18-34.json
+
+============================================================
+
+[2025-07-01 22:18:34] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 22:18:36] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 22:18:38] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-01 22:23:39] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-01_22-23-41.json
+
+============================================================
+
+[2025-07-01 22:23:42] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-01 22:23:42] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-01 22:23:44] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-02 20:46:21] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-02_20-46-23.json
+
+============================================================
+
+[2025-07-02 20:46:23] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-02 20:46:25] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-02 20:46:28] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+ðŸ”¥ ALERTA DE PRECIO (STREAMING) ðŸ”¥
+Bitcoin ha variado un 3.19% en el Ãºltimo periodo.
+Precio anterior: $105,605.00, Precio actual: $108,970.00
+
+============================================================
+
+[2025-07-02 20:51:33] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-02_20-51-34.json
+
+============================================================
+
+[2025-07-02 20:51:34] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-02 20:51:35] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-02 20:51:36] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-02 20:56:37] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-02_20-56-39.json
+
+============================================================
+
+[2025-07-02 20:56:39] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-02 20:56:39] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-02 20:56:41] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-02 21:01:42] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-02_21-01-44.json
+
+============================================================
+
+[2025-07-02 21:01:44] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-02 21:01:44] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-02 21:01:46] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-02 21:06:47] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-02_21-06-48.json
+
+============================================================
+
+[2025-07-02 21:06:49] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-02 21:06:49] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-02 21:06:50] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-02 21:11:52] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-02_21-11-53.json
+
+============================================================
+
+[2025-07-02 21:11:53] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-02 21:11:53] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-02 21:11:55] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
+
+[2025-07-02 21:16:56] >>> 01_ingesta.py
+Datos ingeridos y guardados exitosamente en: data_lake\coingecko_data_2025-07-02_21-16-57.json
+
+============================================================
+
+[2025-07-02 21:16:57] >>> 02_almacenamiento.py
+Proceso de almacenamiento finalizado.
+
+============================================================
+
+[2025-07-02 21:16:58] >>> 03_procesamiento_batch.py
+Procesamiento batch completado. Reporte guardado en: reporte_batch.csv
+
+============================================================
+
+[2025-07-02 21:16:59] >>> 04_procesamiento_streaming.py
+Iniciando monitoreo de streaming...
+
+============================================================
