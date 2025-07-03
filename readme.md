@@ -10,8 +10,8 @@ Este proyecto implementa un flujo completo de Big Data que permite obtener, proc
 
 ```powershell
 
-Set-ExecutionPolicy RemoteSigned -Scope Process
 python -m venv myenv
+Set-ExecutionPolicy RemoteSigned -Scope Process (en caso de error de windows sino solo active el myenv)
 myenv\Scripts\activate
 ```
 ## 2. Instalar dependencias:
