@@ -10,10 +10,13 @@ Este proyecto implementa un flujo completo de Big Data que permite obtener, proc
 
 ```Terminal de comando
 
-python -m venv myenv
+python -m venv myenv(para crear el entorno virutal de python)
+
 Set-ExecutionPolicy RemoteSigned -Scope Process (cambiar la política de ejecución temporalmente a una más permisiva.
 Esto te permitirá activar el entorno virtual sin problemas en caso de error. ejecutar en powershell)
-myenv\Scripts\activate
+
+myenv\Scripts\activate (para activar el entorno virtual depython)
+
 Set-ExecutionPolicy Default -Scope Process (si quieres revertir los cambios y restaurar la política de ejecución
 original, puedes cerrar la ventana de PowerShell o ejecutas el comando. ejecutar en powershell)
 ```
