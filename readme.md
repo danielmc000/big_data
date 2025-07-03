@@ -8,11 +8,12 @@ Este proyecto implementa un flujo completo de Big Data que permite obtener, proc
 
 ### 1. Crear y activar entorno virtual (Windows PowerShell):
 
-```powershell
+```Terminal de comando
 
 python -m venv myenv
-Set-ExecutionPolicy RemoteSigned -Scope Process (en caso de error de windows sino solo active el myenv)
+Set-ExecutionPolicy RemoteSigned -Scope Process (cambiar la política de ejecución temporalmente a una más permisiva. Esto te permitirá activar el entorno virtual sin problemas. ejecutar en powershell)
 myenv\Scripts\activate
+Set-ExecutionPolicy Default -Scope Process (si quieres revertir los cambios y restaurar la política de ejecución original, puedes cerrar la ventana de PowerShell o ejecutas el comando. ejecutar en powershell)
 ```
 ## 2. Instalar dependencias:
 pip install
